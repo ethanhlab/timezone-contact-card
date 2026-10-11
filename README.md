@@ -21,7 +21,7 @@
 
 #### 方式 1：直接透過 GitHub Pages 線上使用
 
-點擊造訪：
+點擊造訪：https://ethanhlab.github.io/timezone-contact-card/
 
 #### 方式 2：下載至本機使用
 

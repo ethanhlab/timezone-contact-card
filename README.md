@@ -44,8 +44,8 @@ The Time Zone Feasibility Card provides an intuitive multi-color status light th
 2. 直接用手機或電腦瀏覽器打開 `index.html` 即可運行。
 3. （推薦）在手機瀏覽器中選擇「新增至主畫面」，即可當作原生App隨手點開。
 
-1. Download the index.html file from this repository.
-2. Open index.html directly in your mobile or desktop browser to run it.
+1. Download the `index.html` file from this repository.
+2. Open `index.html` directly in your mobile or desktop browser to run it.
 3. (Recommended) Select "Add to Home Screen" in your mobile browser to launch it like a native app.
 
 ### 技術架構

@@ -24,6 +24,7 @@ The Time Zone Feasibility Card provides an intuitive multi-color status light th
 * **零依賴與離線可用**：單一HTML檔案，無需安裝套件，無網路環境也能隨開隨用。
 * **三語介面**：中文／English／日本語，依瀏覽器語言自動選擇。
 
+
 * **Intuitive Multi-Color Status Light**: Automatically assesses whether the other person is available based on your local time.
 * **Dual Time Zone Overview**: Select your origin and destination to immediately see the time difference, automatically accounting for Daylight Saving Time (DST) based on the chosen date.
 * **Contact Feasibility Assessment**: Pick a time to evaluate whether it is suitable to initiate contact (Suitable / Acceptable with Caution / Not Recommended), complete with detailed explanations.

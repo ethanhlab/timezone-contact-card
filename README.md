@@ -2,13 +2,17 @@
 
 ## 關於本專案 / About
 > 一個極簡、離線可用的跨時區聯絡評估工具。專為出國旅行與海外生活打造，幫你快速判斷對方是否有空，在最合適的時間聯繫，貼心避開客戶、家人與朋友的睡眠與休息時間。
+> 
 > A minimalist, offline timezone tool for international travelers and expats to check contact availability and avoid disturbing clients, family, and friends during rest hours.
 
 ### 為什麼需要這個工具？ / Why This Tool?
 
 跨時區旅行或出差時，想跟台灣的家人、朋友或客戶聯絡，每次都要心算時差：「現在台灣到底是幾點？對方方便說話嗎？這時間傳訊息會不會打擾到別人休息？」。
+
 When traveling or working abroad, figuring out when to contact people back in Taiwan always involves mental math: "What time is it there? Is it convenient for them? Am I waking them up?"
+
 「聯絡時差評估卡」用最直覺的多色燈號，自動評估對方是否有空，讓你在打開網頁的瞬間就能確認對方當前的作息狀態，主動避開睡眠與休息時段。
+
 The Time Zone Feasibility Card provides an intuitive multi-color status light that automatically evaluates availability upon loading. It enables users to instantly verify the other party's current routine and avoid reaching out during rest or sleeping hours.
 
 ### 核心功能 / Core Features
